@@ -1,0 +1,63 @@
+.container{
+  display: flex;
+  padding: 2px;
+}
+
+.card{
+  background-color: orangered;
+  border: 2px;
+  border-radius: 8px;
+  padding: px;
+  width: 270px;
+  height: 150px;
+}
+h4{
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+}
+.end{
+  color: white;
+  padding-left: 2px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.icon2{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.icon{
+  float: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+img{
+  background-color: orangered;
+  padding: 2px;
+}
+
+h1{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+p{
+  color: orangered;
+  font-size: 50px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  
+}
+h3 h2{
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+}
